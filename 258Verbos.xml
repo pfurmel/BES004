@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:/KiCad/Projects/258/258Verbos.sch</source>
+    <date>26/09/2016 22:55:14</date>
+    <tool>Eeschema 4.0.4-stable</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>258Verbos.sch</title>
+        <company/>
+        <rev/>
+        <date>20 SEP 2016</date>
+        <source>258Verbos.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="0.5W202">
+      <value>2R2</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1AEC3</tstamp>
+    </comp>
+    <comp ref="10R202">
+      <value>0.5W</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1AF8B</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>.0047uF</value>
+      <footprint>CAPACITOR-WIMA_C5B4.5</footprint>
+      <libsource lib="258Verbos" part="CAPACITOR-WIMA_C5_4.5"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1B053</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100pF</value>
+      <footprint>CAPACITOR-WIMA_C2.5-3</footprint>
+      <libsource lib="258Verbos" part="CAPACITOR-WIMA_C2_5-3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1B11B</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>15uF</value>
+      <footprint>RESISTOR_E2_5-6E</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_CPOL-EUE2_5-6E"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1B1E3</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>220pf</value>
+      <footprint>CAPACITOR-WIMA_C2.5-3</footprint>
+      <libsource lib="258Verbos" part="CAPACITOR-WIMA_C2_5-3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1B2AB</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>100uF</value>
+      <footprint>RESISTOR_E2_5-6E</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_CPOL-EUE2_5-6E"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1B373</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>100uF</value>
+      <footprint>RESISTOR_E2_5-6E</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_CPOL-EUE2_5-6E"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1B43B</tstamp>
+    </comp>
+    <comp ref="CONTROL202">
+      <value>ALPHA-9MMA</value>
+      <footprint>TOMW_EVUF</footprint>
+      <libsource lib="258Verbos" part="TOMW_ALPHA-9MMA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1B503</tstamp>
+    </comp>
+    <comp ref="CONTROL_IN202">
+      <value>PJ-301B</value>
+      <footprint>TOMW_PJ-301B</footprint>
+      <libsource lib="258Verbos" part="TOMW_PJ-301B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1B5CB</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>1N4148DO35-7</value>
+      <footprint>DIODE_DO35-7</footprint>
+      <libsource lib="258Verbos" part="DIODE_1N4148DO35-7"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1B693</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>1N4148DO35-7</value>
+      <footprint>DIODE_DO35-7</footprint>
+      <libsource lib="258Verbos" part="DIODE_1N4148DO35-7"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1B75B</tstamp>
+    </comp>
+    <comp ref="FINE202">
+      <value>ALPHA-9MMA</value>
+      <footprint>TOMW_EVUF</footprint>
+      <libsource lib="258Verbos" part="TOMW_ALPHA-9MMA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1B823</tstamp>
+    </comp>
+    <comp ref="FM_IN202">
+      <value>PJ-301B</value>
+      <footprint>TOMW_PJ-301B</footprint>
+      <libsource lib="258Verbos" part="TOMW_PJ-301B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1B8EB</tstamp>
+    </comp>
+    <comp ref="FM_POT202">
+      <value>ALPHA-9MMA</value>
+      <footprint>TOMW_EVUF</footprint>
+      <libsource lib="258Verbos" part="TOMW_ALPHA-9MMA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1B9B3</tstamp>
+    </comp>
+    <comp ref="FREQUENCY202">
+      <value>ALPHA-9MMA</value>
+      <footprint>TOMW_EVUF</footprint>
+      <libsource lib="258Verbos" part="TOMW_ALPHA-9MMA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1BB43</tstamp>
+    </comp>
+    <comp ref="FREQ_TRIM202">
+      <value>100K</value>
+      <footprint>RCL_RTRIM64W</footprint>
+      <libsource lib="258Verbos" part="RCL_R-TRIMM64W"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1BC0B</tstamp>
+    </comp>
+    <comp ref="IC2">
+      <value>TL071D</value>
+      <footprint>LINEAR_SO08</footprint>
+      <libsource lib="258Verbos" part="LINEAR_TL071D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1C6FB</tstamp>
+    </comp>
+    <comp ref="IC3">
+      <value>CA3140N</value>
+      <footprint>SMD_Packages:SOIC-8-N</footprint>
+      <libsource lib="258Verbos" part="LINEAR_CA3140N"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1C7C3</tstamp>
+    </comp>
+    <comp ref="IC7">
+      <value>CA3080E</value>
+      <footprint>OTA_DIL08</footprint>
+      <libsource lib="258Verbos" part="OTA_CA3080E"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1CB47</tstamp>
+    </comp>
+    <comp ref="INITIAL_FREQUENCY202">
+      <value>ALPHA-9MMA</value>
+      <footprint>TOMW_EVUF</footprint>
+      <libsource lib="258Verbos" part="TOMW_ALPHA-9MMA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1CC0F</tstamp>
+    </comp>
+    <comp ref="J201">
+      <value>MPF102</value>
+      <footprint>BT_TRANSISTOR_TO92F</footprint>
+      <libsource lib="258Verbos" part="BT_TRANSISTOR_MPF102"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1CCD7</tstamp>
+    </comp>
+    <comp ref="MAIN_OUT202">
+      <value>PJ-301B</value>
+      <footprint>TOMW_PJ-301B</footprint>
+      <libsource lib="258Verbos" part="TOMW_PJ-301B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1CD9F</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>BC847BS</value>
+      <footprint>TRANSISTOR-SMALL-SIGNAL_SOT363_PHILIPS</footprint>
+      <libsource lib="258Verbos" part="TRANSISTOR-SMALL-SIGNAL_BC847BS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1D05B</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>2N3906</value>
+      <footprint>TRANSISTOR-PNP_TO92</footprint>
+      <libsource lib="258Verbos" part="TRANSISTOR-PNP_2N3906"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1D187</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>MPF102</value>
+      <footprint>BT_TRANSISTOR_TO92F</footprint>
+      <libsource lib="258Verbos" part="BT_TRANSISTOR_MPF102"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1D24F</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>15K</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1D317</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>6K81</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1D3DF</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>15K</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1D4A7</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>2K49</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1D56F</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>4K99</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1D637</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>3K3</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1D6FF</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>33K</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1D7C7</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>68K</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1D88F</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>15K</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1D957</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>10K</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1DA1F</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>390K</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1DAE7</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>10K</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1DBAF</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>1M5</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1DC77</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1DD3F</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>390R</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1DE07</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>100K</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1DECF</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>100K</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1DF97</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>100K</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1E05F</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>10K</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1E127</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>1K8</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1E1EF</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>100K</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1E2B7</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>180K</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1E37F</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>100k</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1E447</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>68k</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1E50F</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>680R</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1E5D7</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>330k</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1E69F</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>680k</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1E767</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>150k</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1E82F</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>680k</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1E8F7</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>820k</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1E9BF</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>680R</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1EA87</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>15k</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1EB4F</tstamp>
+    </comp>
+    <comp ref="R33">
+      <value>6k8</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1EC17</tstamp>
+    </comp>
+    <comp ref="R34">
+      <value>6k8</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1ECDF</tstamp>
+    </comp>
+    <comp ref="R35">
+      <value>3k3</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1EDA7</tstamp>
+    </comp>
+    <comp ref="R36">
+      <value>680R</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1EE6F</tstamp>
+    </comp>
+    <comp ref="R37">
+      <value>680R</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1EF37</tstamp>
+    </comp>
+    <comp ref="R38">
+      <value>330K</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1EFFF</tstamp>
+    </comp>
+    <comp ref="R39">
+      <value>330K</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1F0C7</tstamp>
+    </comp>
+    <comp ref="SIN/SQ1">
+      <value>0</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1F18F</tstamp>
+    </comp>
+    <comp ref="SIN/SQ2">
+      <value>0</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1F257</tstamp>
+    </comp>
+    <comp ref="SIN/SQ3">
+      <value>0</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1F31F</tstamp>
+    </comp>
+    <comp ref="SIN/SQ4">
+      <value>0</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1F3E7</tstamp>
+    </comp>
+    <comp ref="SIN/SQ5">
+      <value>0</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1F4AF</tstamp>
+    </comp>
+    <comp ref="SINE_TRIM202">
+      <value>20k</value>
+      <footprint>RCL_RTRIM64W</footprint>
+      <libsource lib="258Verbos" part="RCL_R-TRIMM64W"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1F577</tstamp>
+    </comp>
+    <comp ref="SV1">
+      <value>~</value>
+      <footprint>TOMW_MA05-2</footprint>
+      <libsource lib="258Verbos" part="TOMW_10_PIN_HEADER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1F63F</tstamp>
+    </comp>
+    <comp ref="T1">
+      <value>BC857BS</value>
+      <footprint>NXP_60_SOT363</footprint>
+      <libsource lib="258Verbos" part="NXP_60_BC857BS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1F707</tstamp>
+    </comp>
+    <comp ref="TEMPCO202">
+      <value>2K</value>
+      <footprint>RESISTOR_R0805</footprint>
+      <libsource lib="258Verbos" part="RESISTOR_R-EU_R0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1F833</tstamp>
+    </comp>
+    <comp ref="V/OCT202">
+      <value>PJ-301B</value>
+      <footprint>TOMW_PJ-301B</footprint>
+      <libsource lib="258Verbos" part="TOMW_PJ-301B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1F8FB</tstamp>
+    </comp>
+    <comp ref="V/OCT_TRIM202">
+      <value>100R</value>
+      <footprint>RCL_RTRIM64W</footprint>
+      <libsource lib="258Verbos" part="RCL_R-TRIMM64W"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1F9C3</tstamp>
+    </comp>
+    <comp ref="WAVESHAPE202">
+      <value>ALPHA-9MMA</value>
+      <footprint>TOMW_EVUF</footprint>
+      <libsource lib="258Verbos" part="TOMW_ALPHA-9MMA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1FA8B</tstamp>
+    </comp>
+    <comp ref="WAVESHAPE_CTRL202">
+      <value>PJ-301B</value>
+      <footprint>TOMW_PJ-301B</footprint>
+      <libsource lib="258Verbos" part="TOMW_PJ-301B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1FB53</tstamp>
+    </comp>
+    <comp ref="WAVESHAPE_TRIM202">
+      <value>1M</value>
+      <footprint>RCL_RTRIM64W</footprint>
+      <libsource lib="258Verbos" part="RCL_R-TRIMM64W"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E1FC1B</tstamp>
+    </comp>
+    <comp ref="IC4">
+      <value>LINEAR_TL072D</value>
+      <footprint>LINEAR_SO08</footprint>
+      <libsource lib="258Verbos" part="LINEAR_TL072D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E42E99</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>LINEAR_TL072D</value>
+      <footprint>LINEAR_SO08</footprint>
+      <libsource lib="258Verbos" part="LINEAR_TL072D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E55C82</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="258Verbos" part="BT_TRANSISTOR_MPF102">
+      <footprints>
+        <fp>*BT_TRANSISTOR_TO92F*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BT_TRANSISTOR_MPF102</field>
+        <field name="Footprint">BT_TRANSISTOR_TO92F</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="G" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="258Verbos" part="CAPACITOR-WIMA_C2_5-3">
+      <footprints>
+        <fp>*CAPACITOR-WIMA_C2.5-3*</fp>
+        <fp>*CAPACITOR-WIMA_C2.5-2*</fp>
+        <fp>*CAPACITOR-WIMA_C2.5-4*</fp>
+        <fp>*CAPACITOR-WIMA_C2.5-5*</fp>
+        <fp>*CAPACITOR-WIMA_C2.5-6*</fp>
+        <fp>*CAPACITOR-WIMA_C5B2.5*</fp>
+        <fp>*CAPACITOR-WIMA_C5B3*</fp>
+        <fp>*CAPACITOR-WIMA_C5B3.5*</fp>
+        <fp>*CAPACITOR-WIMA_C5B4.5*</fp>
+        <fp>*CAPACITOR-WIMA_C5B5*</fp>
+        <fp>*CAPACITOR-WIMA_C5B5.5*</fp>
+        <fp>*CAPACITOR-WIMA_C5B7.2*</fp>
+        <fp>*CAPACITOR-WIMA_C7.5B3*</fp>
+        <fp>*CAPACITOR-WIMA_C7.5B4*</fp>
+        <fp>*CAPACITOR-WIMA_C7.5B5*</fp>
+        <fp>*CAPACITOR-WIMA_C7.5B6*</fp>
+        <fp>*CAPACITOR-WIMA_C10B4*</fp>
+        <fp>*CAPACITOR-WIMA_C10B5*</fp>
+        <fp>*CAPACITOR-WIMA_C10B6*</fp>
+        <fp>*CAPACITOR-WIMA_C15B5*</fp>
+        <fp>*CAPACITOR-WIMA_C15B6*</fp>
+        <fp>*CAPACITOR-WIMA_C15B7*</fp>
+        <fp>*CAPACITOR-WIMA_C15B8*</fp>
+        <fp>*CAPACITOR-WIMA_C15B9*</fp>
+        <fp>*CAPACITOR-WIMA_C22.5B6*</fp>
+        <fp>*CAPACITOR-WIMA_C22.5B7*</fp>
+        <fp>*CAPACITOR-WIMA_C22.5B8*</fp>
+        <fp>*CAPACITOR-WIMA_C22.5B10*</fp>
+        <fp>*CAPACITOR-WIMA_C22.5B11*</fp>
+        <fp>*CAPACITOR-WIMA_C27.5B9*</fp>
+        <fp>*CAPACITOR-WIMA_C27.5B11*</fp>
+        <fp>*CAPACITOR-WIMA_C27.5B13*</fp>
+        <fp>*CAPACITOR-WIMA_C27.5B15*</fp>
+        <fp>*CAPACITOR-WIMA_C27.5B17*</fp>
+        <fp>*CAPACITOR-WIMA_C27.5B20*</fp>
+        <fp>*CAPACITOR-WIMA_C37.5B15*</fp>
+        <fp>*CAPACITOR-WIMA_C37.5B19*</fp>
+        <fp>*CAPACITOR-WIMA_C37.5B20*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CAPACITOR-WIMA_C2_5-3</field>
+        <field name="Footprint">CAPACITOR-WIMA_C2.5-3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="258Verbos" part="CAPACITOR-WIMA_C5_4.5">
+      <footprints>
+        <fp>*CAPACITOR-WIMA_C5B4.5*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CAPACITOR-WIMA_C5_4.5</field>
+        <field name="Footprint">CAPACITOR-WIMA_C5B4.5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="258Verbos" part="DIODE_1N4148DO35-7">
+      <footprints>
+        <fp>*DIODE_DO35-7*</fp>
+        <fp>*DIODE_DO35-10*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODE_1N4148DO35-7</field>
+        <field name="Footprint">DIODE_DO35-7</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="258Verbos" part="LINEAR_CA3140N">
+      <footprints>
+        <fp>*LINEAR_DIL08*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LINEAR_CA3140N</field>
+        <field name="Footprint">LINEAR_DIL08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ON/CMP" type="passive"/>
+        <pin num="2" name="-IN" type="input"/>
+        <pin num="3" name="+IN" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="ON" type="passive"/>
+        <pin num="6" name="OUT" type="output"/>
+        <pin num="7" name="V+" type="power_in"/>
+        <pin num="8" name="CMP" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="258Verbos" part="LINEAR_TL071D">
+      <footprints>
+        <fp>*LINEAR_SO08*</fp>
+        <fp>*LINEAR_DIL08*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LINEAR_TL071D</field>
+        <field name="Footprint">LINEAR_SO08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ON1" type="passive"/>
+        <pin num="2" name="-IN" type="input"/>
+        <pin num="3" name="+IN" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="ON2" type="passive"/>
+        <pin num="6" name="OUT" type="output"/>
+        <pin num="7" name="V+" type="power_in"/>
+        <pin num="8" name="OPT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="258Verbos" part="LINEAR_TL072D">
+      <footprints>
+        <fp>*LINEAR_SO08*</fp>
+        <fp>*LINEAR_DIL08*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LINEAR_TL072D</field>
+        <field name="Footprint">LINEAR_SO08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="output"/>
+        <pin num="2" name="-IN" type="input"/>
+        <pin num="3" name="+IN" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+IN" type="input"/>
+        <pin num="6" name="-IN" type="input"/>
+        <pin num="7" name="OUT" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="258Verbos" part="NXP_60_BC857BS">
+      <footprints>
+        <fp>*NXP_60_SOT363*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">T</field>
+        <field name="Value">NXP_60_BC857BS</field>
+        <field name="Footprint">NXP_60_SOT363</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+        <pin num="4" name="E" type="passive"/>
+        <pin num="5" name="B" type="passive"/>
+        <pin num="6" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="258Verbos" part="OTA_CA3080E">
+      <footprints>
+        <fp>*OTA_DIL08*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">OTA_CA3080E</field>
+        <field name="Footprint">OTA_DIL08</field>
+      </fields>
+      <pins>
+        <pin num="2" name="IN_N" type="input"/>
+        <pin num="3" name="IN_P" type="input"/>
+        <pin num="4" name="V-" type="power_out"/>
+        <pin num="5" name="I_BIAS" type="input"/>
+        <pin num="6" name="OUT" type="output"/>
+        <pin num="7" name="V+" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="258Verbos" part="RCL_R-TRIMM64W">
+      <footprints>
+        <fp>*RCL_RTRIM64W*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RCL_R-TRIMM64W</field>
+        <field name="Footprint">RCL_RTRIM64W</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="258Verbos" part="RESISTOR_CPOL-EUE2_5-6E">
+      <footprints>
+        <fp>*RESISTOR_E2_5-6E*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">RESISTOR_CPOL-EUE2_5-6E</field>
+        <field name="Footprint">RESISTOR_E2_5-6E</field>
+      </fields>
+      <pins>
+        <pin num="+" name="+" type="passive"/>
+        <pin num="-" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="258Verbos" part="RESISTOR_R-EU_R0805">
+      <footprints>
+        <fp>*RESISTOR_R0805*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RESISTOR_R-EU_R0805</field>
+        <field name="Footprint">RESISTOR_R0805</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="258Verbos" part="TOMW_10_PIN_HEADER">
+      <footprints>
+        <fp>*TOMW_MA05-2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SV</field>
+        <field name="Value">TOMW_10_PIN_HEADER</field>
+        <field name="Footprint">TOMW_MA05-2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="258Verbos" part="TOMW_ALPHA-9MMA">
+      <aliases>
+        <alias>TOMW_ALPHA-9MMF2A</alias>
+        <alias>TOMW_ALPHA-9MMF3A</alias>
+      </aliases>
+      <footprints>
+        <fp>*TOMW_EVUF*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">TOMW_ALPHA-9MMA</field>
+        <field name="Footprint">TOMW_EVUF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="258Verbos" part="TOMW_PJ-301B">
+      <footprints>
+        <fp>*TOMW_PJ-301B*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">TOMW_PJ-301B</field>
+        <field name="Footprint">TOMW_PJ-301B</field>
+      </fields>
+      <pins>
+        <pin num="P$1" name="5" type="passive"/>
+        <pin num="P$2" name="5" type="passive"/>
+        <pin num="P$3" name="3" type="passive"/>
+        <pin num="P$4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="258Verbos" part="TRANSISTOR-PNP_2N3906">
+      <footprints>
+        <fp>*TRANSISTOR-PNP_TO92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">TRANSISTOR-PNP_2N3906</field>
+        <field name="Footprint">TRANSISTOR-PNP_TO92</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="258Verbos" part="TRANSISTOR-SMALL-SIGNAL_BC847BS">
+      <footprints>
+        <fp>*TRANSISTOR-SMALL-SIGNAL_SOT363_PHILIPS*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">TRANSISTOR-SMALL-SIGNAL_BC847BS</field>
+        <field name="Footprint">TRANSISTOR-SMALL-SIGNAL_SOT363_PHILIPS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+        <pin num="4" name="E" type="passive"/>
+        <pin num="5" name="B" type="passive"/>
+        <pin num="6" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="258Verbos">
+      <uri>C:\KiCad\Projects\258\258Verbos.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="FINE202" pin="2"/>
+      <node ref="R39" pin="2"/>
+      <node ref="SIN/SQ3" pin="2"/>
+      <node ref="SV1" pin="3"/>
+      <node ref="SV1" pin="4"/>
+      <node ref="SV1" pin="5"/>
+      <node ref="SV1" pin="6"/>
+      <node ref="D2" pin="C"/>
+      <node ref="FINE202" pin="1"/>
+      <node ref="R37" pin="2"/>
+      <node ref="FM_IN202" pin="P$1"/>
+      <node ref="FM_IN202" pin="P$2"/>
+      <node ref="FM_POT202" pin="1"/>
+      <node ref="IC2" pin="3"/>
+      <node ref="C6" pin="-"/>
+      <node ref="C7" pin="+"/>
+      <node ref="CONTROL_IN202" pin="P$1"/>
+      <node ref="CONTROL_IN202" pin="P$2"/>
+      <node ref="R20" pin="1"/>
+      <node ref="R28" pin="2"/>
+      <node ref="R34" pin="2"/>
+      <node ref="R35" pin="2"/>
+      <node ref="R30" pin="1"/>
+      <node ref="R11" pin="2"/>
+      <node ref="R14" pin="1"/>
+      <node ref="R15" pin="2"/>
+      <node ref="R19" pin="1"/>
+      <node ref="R4" pin="2"/>
+      <node ref="SV1" pin="8"/>
+      <node ref="T1" pin="2"/>
+      <node ref="V/OCT202" pin="P$1"/>
+      <node ref="V/OCT202" pin="P$2"/>
+      <node ref="SV1" pin="7"/>
+      <node ref="WAVESHAPE202" pin="1"/>
+      <node ref="WAVESHAPE_CTRL202" pin="P$1"/>
+      <node ref="WAVESHAPE_CTRL202" pin="P$2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="R9" pin="2"/>
+      <node ref="MAIN_OUT202" pin="P$1"/>
+      <node ref="MAIN_OUT202" pin="P$2"/>
+    </net>
+    <net code="2" name="-15V">
+      <node ref="R1" pin="2"/>
+      <node ref="R3" pin="2"/>
+      <node ref="R26" pin="2"/>
+      <node ref="IC1" pin="4"/>
+      <node ref="IC4" pin="4"/>
+      <node ref="INITIAL_FREQUENCY202" pin="1"/>
+      <node ref="IC3" pin="4"/>
+      <node ref="R13" pin="2"/>
+      <node ref="FREQ_TRIM202" pin="1"/>
+      <node ref="SV1" pin="2"/>
+      <node ref="SV1" pin="1"/>
+      <node ref="C7" pin="-"/>
+      <node ref="10R202" pin="2"/>
+      <node ref="10R202" pin="1"/>
+      <node ref="IC2" pin="4"/>
+    </net>
+    <net code="3" name="+15V">
+      <node ref="Q2" pin="3"/>
+      <node ref="SV1" pin="9"/>
+      <node ref="SV1" pin="10"/>
+      <node ref="WAVESHAPE202" pin="3"/>
+      <node ref="FREQUENCY202" pin="3"/>
+      <node ref="FREQ_TRIM202" pin="3"/>
+      <node ref="IC2" pin="7"/>
+      <node ref="0.5W202" pin="1"/>
+      <node ref="0.5W202" pin="2"/>
+      <node ref="C6" pin="+"/>
+      <node ref="R6" pin="1"/>
+      <node ref="R7" pin="2"/>
+      <node ref="IC3" pin="7"/>
+      <node ref="INITIAL_FREQUENCY202" pin="3"/>
+      <node ref="Q1" pin="3"/>
+      <node ref="IC4" pin="8"/>
+      <node ref="IC1" pin="8"/>
+    </net>
+    <net code="4" name="/N$1">
+      <node ref="Q1" pin="1"/>
+      <node ref="SIN/SQ1" pin="2"/>
+      <node ref="Q1" pin="4"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="5" name="/N$2">
+      <node ref="Q1" pin="6"/>
+      <node ref="Q2" pin="2"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="6" name="/N$3">
+      <node ref="R8" pin="2"/>
+      <node ref="Q2" pin="1"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="7" name="/N$4">
+      <node ref="R2" pin="2"/>
+      <node ref="R4" pin="1"/>
+      <node ref="SIN/SQ2" pin="2"/>
+      <node ref="R3" pin="1"/>
+      <node ref="Q1" pin="2"/>
+    </net>
+    <net code="8" name="/N$5">
+      <node ref="R36" pin="1"/>
+      <node ref="J201" pin="1"/>
+    </net>
+    <net code="9" name="/N$6">
+      <node ref="C2" pin="1"/>
+      <node ref="IC7" pin="6"/>
+      <node ref="IC2" pin="2"/>
+    </net>
+    <net code="10" name="/N$7">
+      <node ref="IC7" pin="3"/>
+      <node ref="R7" pin="1"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="11" name="Net-(IC2-Pad1)">
+      <node ref="IC2" pin="1"/>
+    </net>
+    <net code="12" name="Net-(WAVESHAPE_CTRL202-PadP$4)">
+      <node ref="WAVESHAPE_CTRL202" pin="P$4"/>
+    </net>
+    <net code="13" name="Net-(CONTROL_IN202-PadP$4)">
+      <node ref="CONTROL_IN202" pin="P$4"/>
+    </net>
+    <net code="14" name="Net-(V/OCT202-PadP$4)">
+      <node ref="V/OCT202" pin="P$4"/>
+    </net>
+    <net code="15" name="Net-(FM_IN202-PadP$4)">
+      <node ref="FM_IN202" pin="P$4"/>
+    </net>
+    <net code="16" name="Net-(MAIN_OUT202-PadP$4)">
+      <node ref="MAIN_OUT202" pin="P$4"/>
+    </net>
+    <net code="17" name="Net-(IC3-Pad5)">
+      <node ref="IC3" pin="5"/>
+    </net>
+    <net code="18" name="Net-(IC3-Pad8)">
+      <node ref="IC3" pin="8"/>
+    </net>
+    <net code="19" name="Net-(IC3-Pad1)">
+      <node ref="IC3" pin="1"/>
+    </net>
+    <net code="20" name="Net-(IC2-Pad8)">
+      <node ref="IC2" pin="8"/>
+    </net>
+    <net code="21" name="Net-(IC2-Pad5)">
+      <node ref="IC2" pin="5"/>
+    </net>
+    <net code="22" name="/N$54">
+      <node ref="FREQUENCY202" pin="1"/>
+      <node ref="FINE202" pin="3"/>
+    </net>
+    <net code="23" name="/N$44">
+      <node ref="SINE_TRIM202" pin="2"/>
+      <node ref="SINE_TRIM202" pin="3"/>
+      <node ref="R34" pin="1"/>
+      <node ref="R33" pin="2"/>
+    </net>
+    <net code="24" name="/N$46">
+      <node ref="J201" pin="3"/>
+      <node ref="R39" pin="1"/>
+      <node ref="R38" pin="1"/>
+      <node ref="D1" pin="A"/>
+      <node ref="D2" pin="A"/>
+    </net>
+    <net code="25" name="/N$43">
+      <node ref="C5" pin="1"/>
+      <node ref="SINE_TRIM202" pin="1"/>
+      <node ref="R32" pin="2"/>
+      <node ref="R35" pin="1"/>
+      <node ref="IC4" pin="2"/>
+    </net>
+    <net code="26" name="/N$31">
+      <node ref="IC4" pin="5"/>
+      <node ref="R14" pin="2"/>
+    </net>
+    <net code="27" name="/N$21">
+      <node ref="R19" pin="2"/>
+      <node ref="IC1" pin="3"/>
+    </net>
+    <net code="28" name="/N$22">
+      <node ref="IC1" pin="5"/>
+      <node ref="R20" pin="2"/>
+    </net>
+    <net code="29" name="/N$18">
+      <node ref="FREQ_TRIM202" pin="2"/>
+      <node ref="R17" pin="1"/>
+      <node ref="IC1" pin="6"/>
+      <node ref="CONTROL202" pin="1"/>
+      <node ref="R23" pin="2"/>
+      <node ref="TEMPCO202" pin="1"/>
+      <node ref="R16" pin="2"/>
+      <node ref="R21" pin="2"/>
+    </net>
+    <net code="30" name="/N$19">
+      <node ref="IC1" pin="1"/>
+      <node ref="R18" pin="2"/>
+      <node ref="R17" pin="2"/>
+    </net>
+    <net code="31" name="/N$20">
+      <node ref="IC1" pin="2"/>
+      <node ref="R18" pin="1"/>
+      <node ref="CONTROL202" pin="3"/>
+    </net>
+    <net code="32" name="/N$23">
+      <node ref="C4" pin="-"/>
+      <node ref="FM_POT202" pin="2"/>
+    </net>
+    <net code="33" name="/N$9">
+      <node ref="R8" pin="1"/>
+      <node ref="R9" pin="1"/>
+      <node ref="IC7" pin="2"/>
+    </net>
+    <net code="34" name="/N$10">
+      <node ref="T1" pin="4"/>
+      <node ref="T1" pin="1"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="35" name="/N$11">
+      <node ref="R10" pin="1"/>
+      <node ref="C3" pin="2"/>
+      <node ref="IC3" pin="6"/>
+    </net>
+    <net code="36" name="/N$12">
+      <node ref="R12" pin="2"/>
+      <node ref="R13" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="IC3" pin="2"/>
+      <node ref="T1" pin="6"/>
+    </net>
+    <net code="37" name="/N$24">
+      <node ref="FREQUENCY202" pin="2"/>
+      <node ref="R16" pin="1"/>
+    </net>
+    <net code="38" name="/N$13">
+      <node ref="R11" pin="1"/>
+      <node ref="IC3" pin="3"/>
+    </net>
+    <net code="39" name="/N$15">
+      <node ref="V/OCT_TRIM202" pin="2"/>
+      <node ref="T1" pin="5"/>
+    </net>
+    <net code="40" name="/N$16">
+      <node ref="R15" pin="1"/>
+      <node ref="V/OCT_TRIM202" pin="1"/>
+    </net>
+    <net code="41" name="/N$17">
+      <node ref="V/OCT_TRIM202" pin="3"/>
+      <node ref="IC1" pin="7"/>
+      <node ref="TEMPCO202" pin="2"/>
+    </net>
+    <net code="42" name="/N$38">
+      <node ref="SIN/SQ4" pin="2"/>
+      <node ref="SIN/SQ3" pin="1"/>
+      <node ref="WAVESHAPE_TRIM202" pin="1"/>
+    </net>
+    <net code="43" name="/N$34">
+      <node ref="IC4" pin="1"/>
+      <node ref="R31" pin="2"/>
+      <node ref="R32" pin="1"/>
+      <node ref="C5" pin="2"/>
+    </net>
+    <net code="44" name="/N$35">
+      <node ref="R25" pin="1"/>
+      <node ref="Q3" pin="2"/>
+    </net>
+    <net code="45" name="/N$36">
+      <node ref="R25" pin="2"/>
+      <node ref="SIN/SQ5" pin="1"/>
+      <node ref="IC4" pin="3"/>
+    </net>
+    <net code="46" name="/N$37">
+      <node ref="WAVESHAPE_TRIM202" pin="2"/>
+      <node ref="Q3" pin="3"/>
+    </net>
+    <net code="47" name="/N$33">
+      <node ref="Q3" pin="1"/>
+      <node ref="IC4" pin="7"/>
+      <node ref="R24" pin="2"/>
+      <node ref="SIN/SQ4" pin="1"/>
+    </net>
+    <net code="48" name="/N$41">
+      <node ref="R29" pin="1"/>
+      <node ref="WAVESHAPE202" pin="2"/>
+    </net>
+    <net code="49" name="/N$42">
+      <node ref="MAIN_OUT202" pin="P$3"/>
+      <node ref="R31" pin="1"/>
+    </net>
+    <net code="50" name="/N$32">
+      <node ref="R24" pin="1"/>
+      <node ref="SIN/SQ2" pin="1"/>
+      <node ref="SIN/SQ1" pin="1"/>
+      <node ref="IC4" pin="6"/>
+    </net>
+    <net code="51" name="/N$25">
+      <node ref="T1" pin="3"/>
+      <node ref="IC7" pin="5"/>
+    </net>
+    <net code="52" name="/N$26">
+      <node ref="R21" pin="1"/>
+      <node ref="INITIAL_FREQUENCY202" pin="2"/>
+    </net>
+    <net code="53" name="/N$27">
+      <node ref="FM_IN202" pin="P$3"/>
+      <node ref="FM_POT202" pin="3"/>
+    </net>
+    <net code="54" name="/N$28">
+      <node ref="R22" pin="1"/>
+      <node ref="CONTROL_IN202" pin="P$3"/>
+    </net>
+    <net code="55" name="/N$29">
+      <node ref="R22" pin="2"/>
+      <node ref="CONTROL202" pin="2"/>
+    </net>
+    <net code="56" name="/N$30">
+      <node ref="V/OCT202" pin="P$3"/>
+      <node ref="R23" pin="1"/>
+    </net>
+    <net code="57" name="/N$39">
+      <node ref="R27" pin="1"/>
+      <node ref="R28" pin="1"/>
+      <node ref="WAVESHAPE_CTRL202" pin="P$3"/>
+    </net>
+    <net code="58" name="/N$40">
+      <node ref="R30" pin="2"/>
+      <node ref="R29" pin="2"/>
+      <node ref="R27" pin="2"/>
+      <node ref="R26" pin="1"/>
+      <node ref="WAVESHAPE_TRIM202" pin="3"/>
+    </net>
+    <net code="59" name="/N$14">
+      <node ref="R12" pin="1"/>
+      <node ref="C4" pin="+"/>
+    </net>
+    <net code="60" name="/N$49">
+      <node ref="SIN/SQ5" pin="2"/>
+      <node ref="J201" pin="2"/>
+      <node ref="R37" pin="1"/>
+    </net>
+    <net code="61" name="/N$47">
+      <node ref="R36" pin="2"/>
+      <node ref="R33" pin="1"/>
+      <node ref="IC2" pin="6"/>
+      <node ref="R38" pin="2"/>
+      <node ref="Q1" pin="5"/>
+      <node ref="D1" pin="C"/>
+      <node ref="C2" pin="2"/>
+    </net>
+  </nets>
+</export>

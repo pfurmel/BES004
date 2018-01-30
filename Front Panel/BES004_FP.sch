@@ -1,0 +1,285 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L CONN_01X01 P_Osc1_Fq1
+U 1 1 58BC6B5C
+P 1200 1100
+F 0 "P_Osc1_Fq1" H 1200 1200 50  0000 C CNN
+F 1 "CONN_01X01" V 1300 1100 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_6.4mm_M6_DIN965_Pad" H 1200 1100 50  0001 C CNN
+F 3 "" H 1200 1100 50  0000 C CNN
+	1    1200 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 P_Osc1_FFq1
+U 1 1 58BC6BBF
+P 1200 1400
+F 0 "P_Osc1_FFq1" H 1200 1500 50  0000 C CNN
+F 1 "CONN_01X01" V 1300 1400 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_6.4mm_M6_DIN965_Pad" H 1200 1400 50  0001 C CNN
+F 3 "" H 1200 1400 50  0000 C CNN
+	1    1200 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 P_Osc1_WS1
+U 1 1 58BC6BDD
+P 1200 1650
+F 0 "P_Osc1_WS1" H 1200 1750 50  0000 C CNN
+F 1 "CONN_01X01" V 1300 1650 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_6.4mm_M6_DIN965_Pad" H 1200 1650 50  0001 C CNN
+F 3 "" H 1200 1650 50  0000 C CNN
+	1    1200 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 P_Osc1_EFM1
+U 1 1 58BC6C04
+P 1200 1900
+F 0 "P_Osc1_EFM1" H 1200 2000 50  0000 C CNN
+F 1 "CONN_01X01" V 1300 1900 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_6.4mm_M6_DIN965_Pad" H 1200 1900 50  0001 C CNN
+F 3 "" H 1200 1900 50  0000 C CNN
+	1    1200 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 P_Osc1_FM1
+U 1 1 58BC6C2A
+P 1200 2150
+F 0 "P_Osc1_FM1" H 1200 2250 50  0000 C CNN
+F 1 "CONN_01X01" V 1300 2150 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_6.4mm_M6_DIN965_Pad" H 1200 2150 50  0001 C CNN
+F 3 "" H 1200 2150 50  0000 C CNN
+	1    1200 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 P_Osc2_Fq1
+U 1 1 58BC6C53
+P 2050 1100
+F 0 "P_Osc2_Fq1" H 2050 1200 50  0000 C CNN
+F 1 "CONN_01X01" V 2150 1100 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_6.4mm_M6_DIN965_Pad" H 2050 1100 50  0001 C CNN
+F 3 "" H 2050 1100 50  0000 C CNN
+	1    2050 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 P_Osc2_FFq1
+U 1 1 58BC6C8F
+P 2050 1400
+F 0 "P_Osc2_FFq1" H 2050 1500 50  0000 C CNN
+F 1 "CONN_01X01" V 2150 1400 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_6.4mm_M6_DIN965_Pad" H 2050 1400 50  0001 C CNN
+F 3 "" H 2050 1400 50  0000 C CNN
+	1    2050 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 P_Osc2_WS1
+U 1 1 58BC6CD6
+P 2050 1650
+F 0 "P_Osc2_WS1" H 2050 1750 50  0000 C CNN
+F 1 "CONN_01X01" V 2150 1650 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_6.4mm_M6_DIN965_Pad" H 2050 1650 50  0001 C CNN
+F 3 "" H 2050 1650 50  0000 C CNN
+	1    2050 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 POsc2_EFM1
+U 1 1 58BC6D12
+P 2050 1900
+F 0 "POsc2_EFM1" H 2050 2000 50  0000 C CNN
+F 1 "CONN_01X01" V 2150 1900 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_6.4mm_M6_ISO14580_Pad" H 2050 1900 50  0001 C CNN
+F 3 "" H 2050 1900 50  0000 C CNN
+	1    2050 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 P_Osc2_FM1
+U 1 1 58BC6D4B
+P 2050 2150
+F 0 "P_Osc2_FM1" H 2050 2250 50  0000 C CNN
+F 1 "CONN_01X01" V 2150 2150 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_6.4mm_M6_DIN965_Pad" H 2050 2150 50  0001 C CNN
+F 3 "" H 2050 2150 50  0000 C CNN
+	1    2050 2150
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1000 1100
+NoConn ~ 1000 1400
+NoConn ~ 1000 1650
+NoConn ~ 1000 1900
+NoConn ~ 1000 2150
+NoConn ~ 1850 2150
+NoConn ~ 1850 1900
+NoConn ~ 1850 1650
+NoConn ~ 1850 1400
+NoConn ~ 1850 1100
+$Comp
+L CONN_01X01 J_Osc1_WS1
+U 1 1 58BC743E
+P 1200 2750
+F 0 "J_Osc1_WS1" H 1200 2850 50  0000 C CNN
+F 1 "CONN_01X01" V 1300 2750 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_3.7mm_Pad_Via" H 1200 2750 50  0001 C CNN
+F 3 "" H 1200 2750 50  0000 C CNN
+	1    1200 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 J_Osc1_EFM1
+U 1 1 58BC7497
+P 1200 3000
+F 0 "J_Osc1_EFM1" H 1200 3100 50  0000 C CNN
+F 1 "CONN_01X01" V 1300 3000 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_3.7mm_Pad_Via" H 1200 3000 50  0001 C CNN
+F 3 "" H 1200 3000 50  0000 C CNN
+	1    1200 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 J_Osc1_FM1
+U 1 1 58BC74E9
+P 1200 3250
+F 0 "J_Osc1_FM1" H 1200 3350 50  0000 C CNN
+F 1 "CONN_01X01" V 1300 3250 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_3.7mm_Pad_Via" H 1200 3250 50  0001 C CNN
+F 3 "" H 1200 3250 50  0000 C CNN
+	1    1200 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 J_Osc1_VOct1
+U 1 1 58BC753C
+P 1200 3500
+F 0 "J_Osc1_VOct1" H 1200 3600 50  0000 C CNN
+F 1 "CONN_01X01" V 1300 3500 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_3.7mm_Pad_Via" H 1200 3500 50  0001 C CNN
+F 3 "" H 1200 3500 50  0000 C CNN
+	1    1200 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 J_Osc1_Out1
+U 1 1 58BC7594
+P 1200 3750
+F 0 "J_Osc1_Out1" H 1200 3850 50  0000 C CNN
+F 1 "CONN_01X01" V 1300 3750 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_3.7mm_Pad_Via" H 1200 3750 50  0001 C CNN
+F 3 "" H 1200 3750 50  0000 C CNN
+	1    1200 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 J_Osc2_WS1
+U 1 1 58BC76C3
+P 2000 2750
+F 0 "J_Osc2_WS1" H 2000 2850 50  0000 C CNN
+F 1 "CONN_01X01" V 2100 2750 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_3.7mm_Pad_Via" H 2000 2750 50  0001 C CNN
+F 3 "" H 2000 2750 50  0000 C CNN
+	1    2000 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 J_Osc2_EFM1
+U 1 1 58BC7717
+P 2000 3000
+F 0 "J_Osc2_EFM1" H 2000 3100 50  0000 C CNN
+F 1 "CONN_01X01" V 2100 3000 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_3.7mm_Pad_Via" H 2000 3000 50  0001 C CNN
+F 3 "" H 2000 3000 50  0000 C CNN
+	1    2000 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 J_Osc2_FM1
+U 1 1 58BC7774
+P 2000 3200
+F 0 "J_Osc2_FM1" H 2000 3300 50  0000 C CNN
+F 1 "CONN_01X01" V 2100 3200 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_3.7mm_Pad_Via" H 2000 3200 50  0001 C CNN
+F 3 "" H 2000 3200 50  0000 C CNN
+	1    2000 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 J_Osc2_VOct1
+U 1 1 58BC77D8
+P 2000 3500
+F 0 "J_Osc2_VOct1" H 2000 3600 50  0000 C CNN
+F 1 "CONN_01X01" V 2100 3500 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_3.7mm_Pad_Via" H 2000 3500 50  0001 C CNN
+F 3 "" H 2000 3500 50  0000 C CNN
+	1    2000 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X01 J_Osc2_Out1
+U 1 1 58BC783D
+P 2000 3750
+F 0 "J_Osc2_Out1" H 2000 3850 50  0000 C CNN
+F 1 "CONN_01X01" V 2100 3750 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_3.7mm_Pad_Via" H 2000 3750 50  0001 C CNN
+F 3 "" H 2000 3750 50  0000 C CNN
+	1    2000 3750
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1000 2750
+NoConn ~ 1000 3000
+NoConn ~ 1000 3250
+NoConn ~ 1000 3500
+NoConn ~ 1000 3750
+NoConn ~ 1800 3750
+NoConn ~ 1800 3500
+NoConn ~ 1800 3200
+NoConn ~ 1800 3000
+NoConn ~ 1800 2750
+$EndSCHEMATC

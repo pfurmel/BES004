@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name 258Verbos)(type Legacy)(uri C:/KiCad/Projects/258/258Verbos.mod)(options "")(descr ""))
+  (lib (name graphics)(type KiCad)(uri "$(KIPRJMOD)\\graphics.pretty")(options "")(descr ""))
+  (lib (name Logo)(type KiCad)(uri "$(KIPRJMOD)\\Logo.pretty")(options "")(descr ""))
+)
